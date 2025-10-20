@@ -1,9 +1,6 @@
-## 🤝 Connect with me:
+## Connect with me:
 
 <p align="left">
-  <a href="https://t.me/ulansyn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="50" height="50"/>
-  </a>
   <a href="https://www.linkedin.com/in/ulansyn" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
@@ -21,8 +18,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
 </p>
 
----
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulansyn&layout=compact&theme=tokyonight)
